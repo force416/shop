@@ -1,0 +1,5 @@
+.DS_Store
+/target
+application.properties
+.idea/
+shop.iml
